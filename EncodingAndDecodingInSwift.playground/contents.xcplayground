@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Codable'/>
+        <page name='2. Switching Between Snake Case and Camel Case Formats'/>
+        <page name='3. Working Wtih Custom JSON Keys'/>
+        <page name='4. Working Wtih Flat JSON Hierarchies'/>
+        <page name='5. Working Wtih Deep JSON Hierarchies'/>
+        <page name='6. Encoding and Decoding Dates'/>
+        <page name='7. Encoding and Decoding Subclasses'/>
+        <page name='8. Handling Arrays With Mixed Types'/>
+        <page name='9. Working With Arrays'/>
+        <page name='10. Working With Arrays Within Objects'/>
+    </pages>
+</playground>
